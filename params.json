@@ -1,0 +1,6 @@
+{
+  "name": "Php-captcha-math",
+  "tagline": "Sebuah captcha matematika sederhana dengan php",
+  "body": "Sebuah captcha matematika sederhana dengan php.\r\n\r\n### Dukungan \r\n#### Nilai\r\nAngka akan di acak dengan menggunakan fungsi mt_rand dari 1 sampai 20\r\n#### Operasi\r\n- Penjumlahan\r\n- Perkalian\r\n- Pengurangan\r\n\r\n### MIT License\r\nCopyright (c) 2016 Kreasindo Cipta Teknologi.\r\n[More info](https://github.com/Klikpedia/php-captcha-math/blob/master/LICENSE)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
